@@ -136,7 +136,7 @@ CONFIG_PACKAGE_luci-app-ttyd=y
 ### Mihomo
 CONFIG_PACKAGE_luci-app-mihomo=y
 ### Openclash
-CONFIG_PACKAGE_luci-app-Openclash=y
+CONFIG_PACKAGE_luci-app-openclash=y
 
 ### QoSmate
 CONFIG_PACKAGE_luci-app-qosmate=y
